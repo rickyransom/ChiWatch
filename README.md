@@ -44,7 +44,7 @@ https://framer.com/share/Chi-Watch-9jAeOakiweCeazOtpcn9
 | :--------------: | :----------------------------------------- |
 |   React Router   | _Import data via AirTable using ReactRouter._ |
 |   React Table    | _Render the parts of the table relevant to the query_ |
-|   React JSON Graph  | _Import data via AirTable using ReactRouter._ |
+|   React JSON Graph  |Render a graph of complaint category in last three years._ |
 
 <br>
 
