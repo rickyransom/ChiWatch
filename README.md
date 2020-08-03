@@ -18,7 +18,7 @@ https://airtable.com/invite/l?inviteId=invBQvXuin6ZNqKYZ&inviteToken=b9c86d6b637
 - Desktop Landing
 https://framer.com/share/Chi-Watch-9jAeOakiweCeazOtpcn9
 
-![imageAlt](https://imgur.com/ccXcM58)
+<img width=“964” alt=“Chiwatch wireframe” src=“https://imgur.com/ccXcM58.png”>
 <br>
 
 ### MVP
