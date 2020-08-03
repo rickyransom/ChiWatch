@@ -136,3 +136,27 @@ src
 ### Code Issues & Resolutions
 
 > Use this section to list of all major issues encountered and their resolution, if you'd like.
+
+## PERSONAL SWOT ANALYSIS
+
+#### Strength
+Passion for the subject
+Spent a lot of time over weekend practicing learning react all over again with a crash crash course so some things are fresh in my memory
+ Read alot on recent data and also different 
+examples of how data can be presented using 
+React and React libraries.
+
+#### Weakness
+Still trying to fit all the knowledge in my head and struggling a little on when and where to apply components and which ones to apply or assessing if new files should be made for that component. 
+
+#### Opportunity
+My weakness can be an opportunity to learn as we have more independent time and maybe gauge some more time for practice by experimenting with various libraries.
+
+An opportunity to dive into AirTable features and functionality
+
+#### Threats 
+My working environment, a physical rehabilitation/nursing home can sometimes be noisy or distracting.  But I do my best during the day to utilize the quietest space. 
+
+Because of my working enviornment sometimes I am abruptly and without warning met with hinderances  such as medical events or nurses.
+
+Stress is always a threat and a weakness however all can be managed as long as i keep the right attitude
