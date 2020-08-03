@@ -6,10 +6,10 @@
 Reporting police misconduct in the city of Chicago from 2017-2020 with data sourced from The Thurgood Marshall Institute, the objective of this project is to inform, educate and enlighten concerned citizens on a growing problem in American cities today, by focusing on one of America's capital of the Midwest and a city rampant with violence. This project utilizes Airtable, ReactJS, and React-Chart
 <br>
 
-## Airtable
+#### My Airtable 
 https://airtable.com/invite/l?inviteId=invBQvXuin6ZNqKYZ&inviteToken=b9c86d6b637c9b3e366396fc2abbf4bb76b89b6be42e4820ffe538e8b3d27341
 
-### Wireframes
+#### Wireframes
 
 > Use the Wireframes section to display desktop, tablet and mobile views.
 
@@ -18,9 +18,9 @@ https://airtable.com/invite/l?inviteId=invBQvXuin6ZNqKYZ&inviteToken=b9c86d6b637
 - Desktop Landing
 https://framer.com/share/Chi-Watch-9jAeOakiweCeazOtpcn9
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="ccXcM58"><a href="//imgur.com/ccXcM58"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
-### MVP
+
+#### MVP
 
 > _The ChiWatch Minimum Viable Product of this project is to simply receive the user input, based on selected dataset filters (Year Of Complaint, Ethnicity of Complaintant, Category of Offense,etc) and output the visualization of that data in simple web application that emulates a social media post
 
