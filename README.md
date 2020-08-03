@@ -2,11 +2,12 @@
 
 ### Overview
 
-# ChiWatch
-A project I did for coding boot-camp that used React, React Router, and AirTable to build a front end web application reporting data on police misconduct in the city of Chicago.
-
-## Chiwatch: Reporting police misconduct in the city of Chicago from 2017-2020 with data sourced from The Thurgood Marshall Institute, the objective of this project is to inform, educate and enlighten concerned citizens on a growing problem in American cities today, by focusing on one of America's capital of the Midwest and a city rampant with violence. 
+## Chiwatch: 
+Reporting police misconduct in the city of Chicago from 2017-2020 with data sourced from The Thurgood Marshall Institute, the objective of this project is to inform, educate and enlighten concerned citizens on a growing problem in American cities today, by focusing on one of America's capital of the Midwest and a city rampant with violence. This project utilizes Airtable, ReactJS, and React-Chart
 <br>
+
+## Airtable
+https://airtable.com/invite/l?inviteId=invBQvXuin6ZNqKYZ&inviteToken=b9c86d6b637c9b3e366396fc2abbf4bb76b89b6be42e4820ffe538e8b3d27341
 
 ### Wireframes
 
@@ -60,7 +61,6 @@ https://framer.com/share/Chi-Watch-9jAeOakiweCeazOtpcn9
 
 #### Component Hierarchy
 
-> Still trying to really figure out which React components are best 
 ```
 src
 |__ TheData/
